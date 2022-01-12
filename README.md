@@ -1,11 +1,11 @@
-# PocongUserbot Telegram
+# Dan-userbot Telegram
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/poocong/PocongUserbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/poocong/PocongUserbot/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/poocong/PocongUserbot)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/poocong/PocongUserbot/dashboard)
-[![Docker Pulls](https://img.shields.io/docker/pulls/poocong/poconguserbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
-[![GitHub Forks](https://img.shields.io/github/forks/poocong/PocongUserbot?&logo=github)](https://github.com/poocong/PocongUserbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/poocong/PocongUserbot?&logo=github)](https://github.com/poocong/PocongUserbot/stargazers)
+[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/DanaRamadhani/Dan-userbot)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/DanaRamadhani/Dan-userbot/dashboard)
+[![Docker Pulls](https://img.shields.io/docker/pulls/DanaRamadhani/Dan-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
+[![GitHub Forks](https://img.shields.io/github/forks/DanaRamadhani/Dan-userbot?&logo=github)](https://github.com/DanaRamadhani/Dan-userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/DanaRamadhani/Dan-userbot?&logo=github)](https://github.com/DanaRamadhani/Dan-userbot/stargazers)
 
 PocongUserbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=he
 
 ## Updates dan support
 
-Follow Channel [@Poocongonlen](https://t.me/Poocongonlen) untuk info Update bot dan Gabung Group [@PocongUserbot](https://t.me/PocongUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang PocongUserbot.
+Follow Channel [@stay_hallal](https://t.me/SangDappaa) untuk info Update bot dan Gabung Group [@PocongUserbot](https://t.me/PocongUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang PocongUserbot.
 
 ## © Credits
 #### Thanks To [Everyone](https://github.com/poocong/PocongUserbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
