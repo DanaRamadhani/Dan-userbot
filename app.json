@@ -1,9 +1,9 @@
 {
-  "name": "PocongUserbot",
-  "description": "[PocongUserbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "name": "Dan-Userbot",
+  "description": "[DAN-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/4dad946885113195be82a.jpg",
-  "keywords": ["telegram", "userbot", "poconguserbot", "modular", "python"],
-  "repository": "https://github.com/poocong/PocongUserbot",
+  "keywords": ["telegram", "userbot", "danuserbot", "modular", "python"],
+  "repository": "https://github.com/DanaRamadhani/Dan-userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
